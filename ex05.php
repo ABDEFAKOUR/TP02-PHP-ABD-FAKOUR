@@ -4,7 +4,6 @@
 <body>
 <h1>Exercice 5 : Mention selon la moyenne</h1>
 <?php
-// Modifier cette valeur pour tester les différents cas.
 $moyenne = 16;
 
 if ($moyenne < 0 || $moyenne > 20) {
