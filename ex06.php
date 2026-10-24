@@ -4,8 +4,7 @@
 <body>
 <h1>Exercice 6 : Nom du mois avec switch</h1>
 <?php
-// Pour tester une valeur précise, mettre par exemple 3.
-// Pour afficher le mois courant, utiliser : $numeroMois = (int) date("m");
+
 $numeroMois = 3;
 
 switch ($numeroMois) {
